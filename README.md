@@ -6,4 +6,4 @@
 
 [博客](https://liuzhengyang.github.io/)
 
-[buymeacoffee](https://www.buymeacoffee.com/liuzhengyang0)
+<a href="https://www.buymeacoff.com/liuzhengyang" target="_blank">buy me a coffee</a>
